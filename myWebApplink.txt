@@ -1,0 +1,2 @@
+the link to my live app: http://mypro-webap-1g3u9zxznvki0-1162100018.us-east-1.elb.amazonaws.com/
+DNS: myPro-WebAp-1G3U9ZXZNVKI0-1162100018.us-east-1.elb.amazonaws.com
